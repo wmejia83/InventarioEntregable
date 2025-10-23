@@ -37,7 +37,7 @@
 
               <div class="text-center">
                 <small>
-                  <!-- ¿No tienes cuenta? <a href="registro">Regístrate</a> -->
+                  ¿No tienes cuenta? <a href="registro">Regístrate</a>
                 </small>
               </div>
               <div class="text-center">
